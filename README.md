@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<a href="https://github.com/dimaslesmana/">
+  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=dimaslesmana&show_icons=true&count_private=true&theme=github_dark" />
+</a>
+<a href="https://github.com/dimaslesmana/">
+  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimaslesmana&layout=compact&langs_count=6&theme=github_dark" />
+</a>
+
 <!--
 **dimaslesmana/dimaslesmana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
